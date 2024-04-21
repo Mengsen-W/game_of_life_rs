@@ -1,4 +1,4 @@
-# [Lifeee](https://lifeee.netlify.app) – An implementation of the Game of Life
+# [game_of_life_rs](https://game.mengsen.top) – An implementation of the Game of Life
 
 I realized this application to keep learning [Rust](https://www.rust-lang.org/), discover the front-end library [Yew](https://yew.rs/), and because I’m a big fan of [John Conway’s Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Please consider it always a work-in-progress.
 
