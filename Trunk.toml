@@ -1,0 +1,21 @@
+# An example Trunk.toml with all possible fields along with their defaults.
+
+# A sem-ver version requirement of trunk required for this project
+trunk-version = "*"
+
+
+[serve]
+# The address to serve on.
+address = "0.0.0.0"
+# The port to serve on.
+port = 8081
+# Open a browser tab once the initial build is complete.
+open = false
+# Disable auto-reload of the web app.
+no_autoreload = false
+# Disable error reporting
+no_error_reporting = false
+# Additional headers set for responses.
+#headers = { "test-header" = "header value", "test-header2" = "header value 2" }
+# Protocol used for autoreload WebSockets connection.
+ws_protocol = "ws"
