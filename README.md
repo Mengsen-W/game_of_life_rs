@@ -51,4 +51,4 @@ Please do 😉
 
 ## License
 
-See [LICENSE](https://github.com/scastiel/lifeee-rs/blob/main/LICENSE).
+See [LICENSE](https://github.com/Mengsen-W/game_of_life_rs/main/LICENSE).
